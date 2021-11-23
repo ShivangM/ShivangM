@@ -12,7 +12,7 @@
     
   Visitors count
 <br>
-<img src="https://profile-counter.glitch.me/p1yu5h0/count.svg" />
+<img src="https://profile-counter.glitch.me/ShivangM/count.svg" />
 </p>
 
 
@@ -59,19 +59,19 @@
 
 <p align="center">
     <a href="https://github.com/p1yu5h0/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Piyush Agrawal's streak" src="http://github-readme-streak-stats.herokuapp.com?user=p1yu5h0&theme=jolly&hide_border=false"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shivang Mishra's streak" src="http://github-readme-streak-stats.herokuapp.com?user=ShivangM&theme=jolly&hide_border=false"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
 <br/>
-<a href="https://github.com/p1yu5h0/github-readme-stats"><img alt="Piyush Agrawal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=p1yu5h0&&theme=jolly&layout=compact" /></a>
+<a href="https://github.com/p1yu5h0/github-readme-stats"><img alt="Shivang Mishra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShivangM&&theme=jolly&layout=compact" /></a>
 <br>
 <br>
 <br>
         
-<a href="https://github.com/p1yu5h0">
+<a href="https://github.com/SHivangM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1yu5h0&theme=jolly&layout=compact"  height ="175px"  />
 </a>
         
@@ -99,8 +99,8 @@
     
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=p1yu5h0">
+<img src="https://komarev.com/ghpvc/?username=ShivangM">
 </a>
-<a href="https://github.com/p1yu5h0?tab=followers"><img src="https://img.shields.io/github/followers/p1yu5h0?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ShivangM?tab=followers"><img src="https://img.shields.io/github/followers/p1yu5h0?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br>
