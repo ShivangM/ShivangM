@@ -1,106 +1,41 @@
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
-<br>
-<h1 align="center">नमस्ते 🙏🏻, I'm Shivang Mishra! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-<br>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<!-- <p><em>Aiming to become a Software Engineer at <a href="http://www.google.com">Google</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p> -->
-<p><em>Striving to become a good Software Development Engineer &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<div align="center" width="50">
 
-<p align="center"> 
-    
-  Visitors count
-<br>
-<img src="https://profile-counter.glitch.me/ShivangM/count.svg" />
-</p>
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
+</div>
 
-<br>
-<br>
+<div align="center">
 
-## 👨‍🎓 About Me :
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
+or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
 
+<i>Happy Coding!</i> 😊
 
-- 😎 Everything I do is 100% automation, which means I'm just doing it LIVE 😉.
+</div>
 
-- 💻 I love to do Competitive Programming on daily basis 🤓. <br>
-    Now I am 3🌟at CodeChef(max. 1780) and Pupil at CodeForces(max 1245) and consistently trying hard to improve my rating😋.
-- 🌱 I’m currently learning **Data Structures and Algorithms**🧑‍💻.
-- 👯 I’m looking to collaborate on **OpenSource Projects**📜.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/p1yu5h/), [Twitter](https://twitter.com/p1yu5h0), [Gmail](piyush200205@gmail.com).
-- 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better🔥!! 💪
-<br>
+<div align="center">
 
-## 🚀 Languages and Tools:
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
-<p align="left"> 
-    <a href="https://isocpp.org/" target="-blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+</br>
+</br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
+---
 
-<br/>
+<i>Follow me around the web:</i><br>
 
-<p align="center">
-    <a href="https://github.com/p1yu5h0/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shivang Mishra's streak" src="http://github-readme-streak-stats.herokuapp.com?user=ShivangM&theme=jolly&hide_border=false"/>
-    </a>
-</p>
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
-## 📊 My Github Stats
-
-<br/>
-<a href="https://github.com/p1yu5h0/github-readme-stats"><img alt="Shivang Mishra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShivangM&&theme=jolly&layout=compact" /></a>
-<br>
-<br>
-<br>
-        
-<a href="https://github.com/SHivangM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1yu5h0&theme=jolly&layout=compact"  height ="175px"  />
-</a>
-        
-<br/>
-<br>
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=p1yu5h0&theme=jolly&hide_border=false&area=false" alt="piyush" /></p>
-
-<br/>
-
-## 🤘 Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/p1yu5h/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="40" width="40"/></a>
-<a href = "https://twitter.com/p1yu5h0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" height="40" width="40"/></a>
-<a href = "https://www.instagram.com/p1yu5h.0/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="40" width="40"/></a>
-<a href = "https://www.youtube.com/channel/UCu4XWded10bmst_mvTD0HHg" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" height="40" width="40"/></a>
-<a href="https://codeforces.com/profile/p1yu5h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="p1yu5h" height="40" width="40" /></a>
-<a href = "https://www.codechef.com/users/p1yu5h0" target="blank"><img src="https://cdn.codechef.com/images/cc-logo-sd.svg" align="center" height="40" width="70"/></a>
-<a href="https://dev.to/p1yu5h0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="p1yu5h0" height="40" width="40" /></a>
-<a href = "https://leetcode.com/p1yu5h0/" target="blank"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="40" width="70" align="center"/></a>
-<br>
-
-<br>
-  
-    
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=ShivangM">
-</a>
-<a href="https://github.com/ShivangM?tab=followers"><img src="https://img.shields.io/github/followers/p1yu5h0?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<br>
+</div>
