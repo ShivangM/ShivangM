@@ -10,8 +10,8 @@ I have experience in web development, I know React JS, Tailwind CSS, Next JS, HT
 * 🖥️  See my portfolio at [Portfolio | Shivang Mishra](http://shivangmishra.me)
 * ✉️  You can contact me at [shivangmishra0824@gmail.com](mailto:shivangmishra0824@gmail.com)
 * 🚀  I'm currently working on [Portfolio V2](http://shivangmishra.me)
-* 🧠  I'm learning Next JS
-* 🤝  I'm open to collaborating on Web Projects
+* 🧠  I'm learning Web 3 Space (Third Web, Solana, Solidity, Moralis)
+* 🤝  I'm open to collaborating on Full Stack Development Projects.
 * ⚡  I like to watch Anime
 
 <a href="https://www.twitter.com/shivangm24" target="_blank" rel="noreferrer"><img
