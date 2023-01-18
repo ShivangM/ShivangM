@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I have experience in web development, I know React JS, Tailwind CSS, Next JS, HTML, CSS, Javascript as Front End technologies, and Node JS, Express, and Socket IO for the Backend. Worked on both SQL and Non-SQL Databases (Postgress SQL, Mongo DB). And I know programming languages C++, Java, Python, and Javascript. In addition, I have knowledge in Designing.
+A tech-savvy Indian professional with expertise in full-stack development, data structures, algorithms, and a keen interest in blockchain, web 3.0, entrepreneurship and technology-based business ventures.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio | Shivang Mishra](http://shivangmishra.me)
 * ✉️  You can contact me at [shivangmishra0824@gmail.com](mailto:shivangmishra0824@gmail.com)
-* 🚀  I'm currently working on [Portfolio V2](http://shivangmishra.me)
+<!-- * 🚀  I'm currently working on [Portfolio V2](http://shivangmishra.me) -->
 * 🧠  I'm learning Web 3 Space (Third Web, Solana, Solidity, Moralis)
-* 🤝  I'm open to collaborating on Full Stack Development Projects.
+<!-- * 🤝  I'm open to collaborating on Full Stack Development Projects. -->
 * ⚡  I like to watch Anime
 
 <a href="https://www.twitter.com/shivangm24" target="_blank" rel="noreferrer"><img
