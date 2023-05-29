@@ -10,7 +10,7 @@ A tech-savvy Indian professional with expertise in full-stack development, data 
 * 🖥️  See my portfolio at [Portfolio | Shivang Mishra](http://shivangmishra.me)
 * ✉️  You can contact me at [shivangmishra0824@gmail.com](mailto:shivangmishra0824@gmail.com)
 <!-- * 🚀  I'm currently working on [Portfolio V2](http://shivangmishra.me) -->
-* 🧠  I'm learning Web 3 Space (Third Web, Solana, Solidity, Moralis)
+<!-- * 🧠  I'm learning Web 3 Space (Third Web, Solana, Solidity, Moralis) -->
 <!-- * 🤝  I'm open to collaborating on Full Stack Development Projects. -->
 * ⚡  I like to watch Anime
 
