@@ -7,7 +7,7 @@ Full Stack Web Developer
 A tech-savvy Indian professional with expertise in full-stack development, data structures, algorithms, and a keen interest in blockchain, web 3.0, entrepreneurship and technology-based business ventures.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio | Shivang Mishra](http://shivangmishra.me)
+* 🖥️  See my portfolio at [Portfolio | Shivang Mishra](http://shivangmishra.tech)
 * ✉️  You can contact me at [shivangmishra0824@gmail.com](mailto:shivangmishra0824@gmail.com)
 <!-- * 🚀  I'm currently working on [Portfolio V2](http://shivangmishra.me) -->
 <!-- * 🧠  I'm learning Web 3 Space (Third Web, Solana, Solidity, Moralis) -->
