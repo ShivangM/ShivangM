@@ -1,18 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shivang Mishra
 ======================================================================================================================================
 
-Full Stack Web Developer
+Software Developer
 ------------------------
 
-A tech-savvy Indian professional with expertise in full-stack development, data structures, algorithms, and a keen interest in blockchain, web 3.0, entrepreneurship and technology-based business ventures.
+A tech-savvy professional with expertise in full-stack development, data structures, algorithms, and a keen interest in blockchain, web 3.0, entrepreneurship, and technology-based business ventures.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio | Shivang Mishra](http://shivangmishra.tech)
 * ✉️  You can contact me at [shivangmishra0824@gmail.com](mailto:shivangmishra0824@gmail.com)
-<!-- * 🚀  I'm currently working on [Portfolio V2](http://shivangmishra.me) -->
-<!-- * 🧠  I'm learning Web 3 Space (Third Web, Solana, Solidity, Moralis) -->
-<!-- * 🤝  I'm open to collaborating on Full Stack Development Projects. -->
-* ⚡  I like to watch Anime
 
 <a href="https://www.twitter.com/shivangm24" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/shivangm24?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
